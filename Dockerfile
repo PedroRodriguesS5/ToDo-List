@@ -17,6 +17,6 @@ EXPOSE 8080
 
 WORKDIR /app
 
-COPY --from=build todo-list-project/target/to-do-list-1.0.0.jar app.jar
+COPY --from=build /target/to-do-list-1.0.0.jar app.jar
 
 ENTRYPOINT ["java", "-jar", "app.jar"]
