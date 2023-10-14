@@ -1,8 +1,0 @@
-{
-    "workbench.colorCustomizations": {},
-    "auto-rename-tag.activationOnLanguage": [
-        "*"
-    ],
-    "java.configuration.updateBuildConfiguration": "interactive",
-    "java.compile.nullAnalysis.mode": "automatic"
-}

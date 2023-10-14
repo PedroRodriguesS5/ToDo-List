@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.com.pedrorodrigues</groupId>
 	<artifactId>to-do-list</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>to-do-list</name>
 	<description>Gerenciador de tarefas</description>
 	<properties>
